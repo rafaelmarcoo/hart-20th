@@ -24,37 +24,37 @@ const sampleNotes = [
   {
     id: 4,
     name: "Matthew",
-    content: "happy birthday, hartheu!! so grateful that I've got the chance to meet a reliable and optimistic person like you in this lifetime. Please know that we are beyond proud of you because we always see the effort and dedication you put into your work. Continue to inspire people through your cute drawings and letters you always make for RUOK, and also the unhinged tiktoks you send me 😭 we're always here to accompany you when life gets tough. always, in all ways!! 🫶\n\nsincerely,\nmatthew ❤️",
+    content: "happy birthday, hartheu!! so grateful that I&apos;ve got the chance to meet a reliable and optimistic person like you in this lifetime. Please know that we are beyond proud of you because we always see the effort and dedication you put into your work. Continue to inspire people through your cute drawings and letters you always make for RUOK, and also the unhinged tiktoks you send me 😭 we&apos;re always here to accompany you when life gets tough. always, in all ways!! 🫶\n\nsincerely,\nmatthew ❤️",
     color: 'bg-primary',
   },
   {
     id: 5,
     name: "Francis",
-    content: "to one of the most energetic & funniest ppl ik, happy happy birthday hart. we've only known each other for a couple months but u've alr become such a comforting & familiar presence in my ambassador journey. i truly admire ur passion in capturing moments cos it's such a beautiful way to let others see the world thru ur eyes, theres sumn so special in how u find beauty even in da smallest things so pls keep in doing that. happy 20th kuya hart\n\n cisco xx",
+    content: "to one of the most energetic & funniest ppl ik, happy happy birthday hart. we&apos;ve only known each other for a couple months but u&apos;ve alr become such a comforting & familiar presence in my ambassador journey. i truly admire ur passion in capturing moments cos it&apos;s such a beautiful way to let others see the world thru ur eyes, theres sumn so special in how u find beauty even in da smallest things so pls keep in doing that. happy 20th kuya hart\n\n cisco xx",
     color: 'bg-secondary',
   },
   {
     id: 6,
     name: "Chelsey",
-    content: "happy happy 20th birthday Hart!! we haven't interacted as much but I've always admired how creative and genuine u are - it's really clear that u put a lot of heart into what u do, and i also thought u were cool back during ambassador training. hope u have a noice day today. wishing u all the best po for the years ahead !!",
+    content: "happy happy 20th birthday Hart!! we haven&apos;t interacted as much but I&apos;ve always admired how creative and genuine u are - it&apos;s really clear that u put a lot of heart into what u do, and i also thought u were cool back during ambassador training. hope u have a noice day today. wishing u all the best po for the years ahead !!",
     color: 'bg-accent',
   },
   {
     id: 7,
     name: "Jahnah",
-    content: "HAPPY BIRTHDAY HARTYHARHART 🙂‍↕️🙂‍↕️ finally getting to know you better after the past year of knowing of you is honestly such a blessing 😌 finding out that this cool looking cool guy in the media team is hilarious and lowkey crazy just made him a whole lot cooler 😎 in this 20th year of yours I hope it's filled with incredible events that your creative self can capture and keep close to your heart ✨️\n\nstay you, stay slaying ‼️‼️\njananana",
+    content: "HAPPY BIRTHDAY HARTYHARHART 🙂‍↕️🙂‍↕️ finally getting to know you better after the past year of knowing of you is honestly such a blessing 😌 finding out that this cool looking cool guy in the media team is hilarious and lowkey crazy just made him a whole lot cooler 😎 in this 20th year of yours I hope it&apos;s filled with incredible events that your creative self can capture and keep close to your heart ✨️\n\nstay you, stay slaying ‼️‼️\njananana",
     color: 'bg-primary',
   },
   {
     id: 8,
     name: "Erylle",
-    content: "happy born-to-slay-day, 🎱 partner‼️ we may hav been trashed once but you are never trash 😤 you're the clown that's never going down, i always forget you're a kuya LOL love the way you capture memories into forever films 🥺 you got a talent to touch hearts (badum tss omg self love?? 😳 ok ill stop) can't wait for more hangouts and shenanigans in your years to come 🤩 HIP-HIP-HART-DAY‼️\n\nstay cray, stay slay, you're twentay 😼\n— erylle",
+    content: "happy born-to-slay-day, 🎱 partner‼️ we may hav been trashed once but you are never trash 😤 you&apos;re the clown that&apos;s never going down, i always forget you&apos;re a kuya LOL love the way you capture memories into forever films 🥺 you got a talent to touch hearts (badum tss omg self love?? 😳 ok ill stop) can&apos;t wait for more hangouts and shenanigans in your years to come 🤩 HIP-HIP-HART-DAY‼️\n\nstay cray, stay slay, you&apos;re twentay 😼\n— erylle",
     color: 'bg-secondary',
   },
   {
     id: 9,
     name: "Rafael",
-    content: "happy birthday brotha 🖤 i am very very glad to have met you. the way we match energy and vibes iz krazy ‼️ from the most random shi we be doing to the deep talks and to the dumbest moments 🖤 looking forward to making hella more memories, more chaos and more tiktoks HAHAHHA 😮‍💨\n\nno matter what, never ever stop smiling and never ever stop being you ! always remember that no matter what life throws at you, we always got your back. no matter what. 🖤\n\nmuch love,\nmogging #1 / dumber / raf\n\n\nalso, no, 20 isn't unc status",
+    content: "happy birthday brotha 🖤 i am very very glad to have met you. the way we match energy and vibes iz krazy ‼️ from the most random shi we be doing to the deep talks and to the dumbest moments 🖤 looking forward to making hella more memories, more chaos and more tiktoks HAHAHHA 😮‍💨\n\nno matter what, never ever stop smiling and never ever stop being you ! always remember that no matter what life throws at you, we always got your back. no matter what. 🖤\n\nmuch love,\nmogging #1 / dumber / raf\n\n\nalso, no, 20 isn&apos;t unc status",
     color: 'bg-accent',
   },
   {
@@ -66,13 +66,13 @@ const sampleNotes = [
   {
     id: 11,
     name: "Zamir",
-    content: "happy birthday, hart! it hasn't been a long time since we've known each other but meeting you has definitely changed me. i know you didn't think much of how carried yourself on that day the group went to miguelito's, but i will always remember how you talked about your experiences so freely. this, in return, gave me the courage to confide in mine as well ,and now i feel the freest i've been in years—all because of you.\n\nit is such an honour to be inspired by someone like you, hart; and i hope that, despite every hurdle in life, you will still see it in yourself to be true to who you are. however, on those days that you doubt yourself, never hesitate to talk to me or to anyone here. we will always be here to remind you of your worth and what you are to us. thank you for being in my life, hart! you are worthy of love, always.\n\nyours truly,\ndav",
+    content: "happy birthday, hart! it hasn&apos;t been a long time since we&apos;ve known each other but meeting you has definitely changed me. i know you didn&apos;t think much of how carried yourself on that day the group went to miguelito&apos;s, but i will always remember how you talked about your experiences so freely. this, in return, gave me the courage to confide in mine as well ,and now i feel the freest i&apos;ve been in years—all because of you.\n\nit is such an honour to be inspired by someone like you, hart; and i hope that, despite every hurdle in life, you will still see it in yourself to be true to who you are. however, on those days that you doubt yourself, never hesitate to talk to me or to anyone here. we will always be here to remind you of your worth and what you are to us. thank you for being in my life, hart! you are worthy of love, always.\n\nyours truly,\ndav",
     color: 'bg-secondary',
   },
   {
     id: 12,
     name: "Daniel",
-    content: "Happy Birthday Hart. Thank you for all the amazing things you have done for the student ambassador group as well as our ambassador friend group. Though I haven't known you for a very long time, it seems like I have known for a very long time. You have always been open about everything and are willing to get to know others which has created a safe space for many of us. You always bring laughter, joy and fun to all the events and hangouts we have shared over the last few months. Your amazing videography/photography skills do not go unnoticed and we are truly honored and glad for you to be in our group. Keep up the good work, all the best to your studies. Dont ever loose sight of the end goal. If you ever feel down or need someone to talk to, dont be afraid to come and talk to us, we are their to support you. Once again, thank you for all that you have done and may the year ahead be one filled with good memories, good health, and lots of presents.\n\nFrom Daniel",
+    content: "Happy Birthday Hart. Thank you for all the amazing things you have done for the student ambassador group as well as our ambassador friend group. Though I haven&apos;t known you for a very long time, it seems like I have known for a very long time. You have always been open about everything and are willing to get to know others which has created a safe space for many of us. You always bring laughter, joy and fun to all the events and hangouts we have shared over the last few months. Your amazing videography/photography skills do not go unnoticed and we are truly honored and glad for you to be in our group. Keep up the good work, all the best to your studies. Dont ever loose sight of the end goal. If you ever feel down or need someone to talk to, dont be afraid to come and talk to us, we are their to support you. Once again, thank you for all that you have done and may the year ahead be one filled with good memories, good health, and lots of presents.\n\nFrom Daniel",
     color: 'bg-accent',
   },
   {
