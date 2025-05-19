@@ -108,7 +108,7 @@ export default function WallOfNotes() {
       
       <div className="text-center mb-16 relative z-10">
         <h1 className="text-7xl sm:text-8xl text-dark font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary via-accent to-secondary animate-gradient tracking-wide">
-          Hart's 20th
+          Hart&apos;s 20th
         </h1>
         <p className="text-3xl text-dark tracking-wide subtitle-glow-strong">Birthday Wishes Wall</p>
       </div>
